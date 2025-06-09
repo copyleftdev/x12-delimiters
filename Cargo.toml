@@ -14,7 +14,7 @@ categories = ["parsing", "text-processing"]
 [dependencies]
 
 [dev-dependencies]
-proptest = "1.3.1"
+proptest = "1.7.0"
 criterion = "0.5.1"
 
 [[bench]]
